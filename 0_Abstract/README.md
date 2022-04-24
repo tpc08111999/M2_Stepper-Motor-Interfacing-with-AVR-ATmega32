@@ -1,4 +1,4 @@
-    Stepper Motor Interfacing With AVR ATmega 32
+      Stepper Motor Interfacing With AVR ATmega 32
 
 
 
