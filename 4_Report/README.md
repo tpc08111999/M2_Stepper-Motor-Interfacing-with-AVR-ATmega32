@@ -1,3 +1,4 @@
+![stepper motor](https://user-images.githubusercontent.com/101355443/165083432-6fc94a37-2f0a-4222-a8d8-9a13a469647d.jpg)
 Introduction:
 Stepper motor is a brushless DC motor that divides the full rotation angle of 360° into a number of equal steps.
 
